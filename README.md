@@ -1,74 +1,72 @@
-# 🌟 Mohamed Khacha | Tech Alchemist ✨
+# Hi there, I'm Mohamed Khacha! 👋  
 
-<div align="center">
-  <img src="https://media.giphy.com/media/LmNwrp96HjfUPv0zHn/giphy.gif" width="300" alt="Coding Magic">
-</div>
-
-## 🌈 Crafting Digital Dreams into Reality
-
-Hey there! I'm not just an engineer – I'm a **technology storyteller** weaving complex algorithms and innovative solutions into the fabric of tomorrow. My journey is an ongoing masterpiece of code, creativity, and curiosity.
+🚀 **Engineering in Data Science, Big Data & AI**  
+💻 **Developer Extraordinaire**  
+🌍 **Tech Enthusiast**  
 
 ---
 
-### 🎨 My Technical Palette
+## 🌟 About Me  
 
-**Languages I Speak:**
-![Python](https://img.shields.io/badge/-Python-000000?style=for-the-badge&logo=python&logoColor=FFD700)
-![Java](https://img.shields.io/badge/-Java-000000?style=for-the-badge&logo=coffeescript&logoColor=FF6F61)
-![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=F0DB4F)
-![R](https://img.shields.io/badge/-R-000000?style=for-the-badge&logo=r&logoColor=2166AC)
+Hello! I’m an engineering student blending passion, curiosity, and innovation in the fields of Data Science, Big Data, and Artificial Intelligence. I love crafting impactful solutions that push the boundaries of technology.  
 
-**My Digital Forge:**
-![TensorFlow](https://img.shields.io/badge/-TensorFlow-000000?style=for-the-badge&logo=tensorflow&logoColor=FF6F00)
-![React](https://img.shields.io/badge/-React-000000?style=for-the-badge&logo=react&logoColor=61DAFB)
-![MongoDB](https://img.shields.io/badge/-MongoDB-000000?style=for-the-badge&logo=mongodb&logoColor=4EA94B)
+**What Drives Me?**  
+- 🧠 Exploring **Machine Learning**, **Distributed Systems**, and **Natural Language Processing**.  
+- 💡 A strong commitment to **problem-solving** and **lifelong learning**.  
+- 🌱 Continuously learning **Advanced Deep Learning Architectures** and **Kubernetes**.  
 
 ---
 
-### 🚀 Constellation of Projects
+## 🛠️ Tech Toolbox  
 
-#### 🧠 **Brain Tumor Detection System**
-_Illuminating Medical Diagnostics with AI_
-- Deep learning model transforming medical imaging
-- Deployed via Flask
-- Pushing boundaries of AI in healthcare
+### 🖥️ Programming Languages  
+![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)  
+![Java](https://img.shields.io/badge/-Java-F78C40?logo=java&logoColor=white)  
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black)  
+![R](https://img.shields.io/badge/-R-276DC3?logo=r&logoColor=white)  
 
-#### 📂 **Quantum File Management**
-_Reimagining Digital Organization_
-- Python GUI that dances with MongoDB
-- Seamless file navigation and management
-- Intuitive design meets powerful functionality
+### 📚 Frameworks & Libraries  
+![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?logo=tensorflow&logoColor=white)  
+![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black)  
 
-#### 📊 **Scheduling Algorithm Symphony**
-_Orchestrating Computational Efficiency_
-- Comparative analysis of scheduling algorithms
-- Java-powered performance exploration
-- Unraveling the mysteries of process management
+### 🗄️ Databases & Tools  
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white)  
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white)  
 
 ---
 
-### 🌠 My Cosmic Goals
+## 🚀 Featured Projects  
 
-- 🔬 Architect a revolutionary distributed file system
-- 🌐 Contribute to the open-source universe
-- 🚀 Secure a transformative AI internship
+🔍 **[Brain Tumor Detection System](https://github.com/0khacha/brain-tumor-detection)**  
+A Flask-deployed deep learning model designed to detect brain tumors with impressive accuracy.  
 
----
+📂 **[File Management System](https://github.com/0khacha/file-manager)**  
+A Python-based GUI system for managing files and folders, fully integrated with MongoDB.  
 
-### 📊 My Digital Footprint
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=0khacha&theme=nightowl&show_icons=true" alt="GitHub Stats">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=0khacha&theme=nightowl&layout=compact" alt="Top Languages">
-</div>
+📊 **[Scheduling Algorithm Performance Analysis](https://github.com/0khacha/scheduling-algorithms)**  
+A comparative study of FIFO, SJF, and Round Robin scheduling algorithms using Java and simulated datasets.  
 
 ---
 
-### 📡 Connect & Collaborate
+## 📈 GitHub Stats  
 
-[![Email](https://img.shields.io/badge/Email-mohamedkhacha99@gmail.com-critical?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mohamedkhacha99@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Mohamed%20Khacha-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohamed-khacha-940a9025a/)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=0khacha&layout=compact&theme=radical)  
 
 ---
 
-> 🌈 **"In the canvas of technology, every line of code is a brushstroke of possibility."**
+## 🎯 My Goals  
+
+- 🔗 Build a scalable **distributed file system**.  
+- 🌐 Contribute to **open-source AI research**.  
+- 🏆 Secure an internship in **AI or Big Data** that challenges and inspires me.  
+
+---
+
+## 📫 Let’s Connect!  
+
+- 💌 **Email**: [mohamedkhacha99@gmail.com](mailto:mohamedkhacha99@gmail.com)  
+- 🔗 **LinkedIn**: [linkedin.com/in/mohamedkhacha](https://www.linkedin.com/in/mohamed-khacha-940a9025a/)  
+
+---
+
+> *“Life isn't about finding yourself. It's about creating yourself.”* – Unknown  
