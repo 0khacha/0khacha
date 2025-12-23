@@ -1,7 +1,7 @@
 # Hi, I'm Mohamed Khacha
 
-**Engineering in Data Science, Big Data & AI**  
-**Developer | Tech Enthusiast**
+**Engineering in IA & ML**  
+**Developer | Tech Geek**
 
 ---
 
