@@ -1,7 +1,6 @@
 # Hi, I'm Mohamed Khacha
 
-**Engineering in IA & ML**  
-**Developer | Tech Geek**
+**AI & Data Engineer**  
 
 ---
 
@@ -18,9 +17,7 @@ I am an engineering student passionate about blending technology with innovation
 
 ## Let’s Connect
 
-- **Email**: [mohamedkhacha99@gmail.com](mailto:mohamedkhacha99@gmail.com)  
-- **LinkedIn**: [linkedin.com/in/mohamedkhacha](https://www.linkedin.com/in/mohamed-khacha-940a9025a/)
-
+[Email](mailto:mohamedkhacha99@gmail.com) · [LinkedIn](https://www.linkedin.com/in/mohamed-khacha-940a9025a/) · [Website](https://mohamedkhacha.me)
 ---
 
 > "The only way to do great work is to love what you do." – Steve Jobs
