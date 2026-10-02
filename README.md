@@ -16,8 +16,9 @@ I am an engineering student passionate about blending technology with innovation
 ---
 
 ## Let’s Connect
-
-[Email](mailto:mohamedkhacha99@gmail.com) · [LinkedIn](https://www.linkedin.com/in/mohamed-khacha-940a9025a/) · [Website](https://mohamedkhacha.me)
+**Email**: [mohamedkhacha99@gmail.com](mailto:mohamedkhacha99@gmail.com)
+**LinkedIn**: [linkedin.com/in/mohamedkhacha](https://www.linkedin.com/in/mohamed-khacha-940a9025a/)
+**Portfolio**: (mohamedkhacha.me)
 ---
 
 > "The only way to do great work is to love what you do." – Steve Jobs
